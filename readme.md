@@ -1,3 +1,3 @@
 >Hi everyone
 
->this is just a gitpod learning
+>This is just a gitpod learning
